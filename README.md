@@ -3,7 +3,7 @@
 The project came simply by staring at my plant and thinking, how could I get rid of checking everyday the soil of my plant and water it? and I thought yeah, I'll build something.
 
 ## The main idea
-To check everyday the soil moisture of the pot and water it depending on this moisture. Also I wanted it to water only when the night approaches so it is only watered when the light intensity is below a threshold value. Furthermore, I wanted to see the values in real time and keep them safe so in a future I could use it to improve the system, so I added a ESP-01 module to upload the data.
+To check everyday the soil moisture of the pot and water it depending on this moisture. I also wanted it to water only at sunset so it is only watered when the light intensity is below a threshold value. Furthermore, I wanted to see the values in real time and keep them safe so in a near future I could use it to improve the system, so I added a ESP-01 module to upload the data.
 
 
 ## Hardware used
